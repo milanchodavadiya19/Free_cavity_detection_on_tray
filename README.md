@@ -38,11 +38,8 @@ python delete_images.py
 
 ## Built With
 
-* [Keras](https://keras.io/) - Deep Leanring framework
-* [LeNet](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf/) - Research Paper
-
 ## Examples
-<img src="[https://github.com/milanchodavadiya19/Exam_Notes_Detection/blob/main/test1.JPG](https://github.com/milanchodavadiya19/object_detection_on_tray-main/blob/main/freecavity/detected_result/8RKATQZ-detected-boxes.jpg)https://github.com/milanchodavadiya19/object_detection_on_tray-main/blob/main/freecavity/detected_result/8RKATQZ-detected-boxes.jpg">
+<img src="https://github.com/milanchodavadiya19/object_detection_on_tray-main/blob/main/freecavity/detected_result/8RKATQZ-detected-boxes.jpg">
 <!-- <img src="https://github.com/milanchodavadiya19/Exam_Notes_Detection/blob/main/test2.JPG"> -->
 
 
