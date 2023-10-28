@@ -1,10 +1,6 @@
 # object_detection_on_tray
 identify the free cavity on the tray 
 
-# Exam_Notes_Detection
-
-At the time of exams most of the time student share their notes via social media and after the exam gets over it become really difficut to delete all those images manually. So face this problem I have created this system which detects exam notes(pictures which are clicked from mobile camera) and deletes it.
-
 
 ## Getting Started
 
@@ -18,6 +14,7 @@ Scikit
 cv2
 matplotlib
 imutils
+
 ```
 
 ### Installing
