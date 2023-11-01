@@ -1,4 +1,4 @@
-# object_detection_on_tray
+# Free_cavity_detection_on_tray
 identify the free cavity on the tray 
 
 The project involved processing high-dimensional sensory data for predictive analytics and uses a microservice for the loading robot using Docker containers, zeroMQ and deep learning techniques.
