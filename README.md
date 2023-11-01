@@ -5,7 +5,6 @@ The project involved processing high-dimensional sensory data for predictive ana
 
 ## Getting Started
 
-
 System contains 4 python files, 1 trained model file and 2 folders. 
 I have used Deep Neural Networks, Docker containers, zeroMQ.
 
