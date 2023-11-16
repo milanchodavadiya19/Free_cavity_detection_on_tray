@@ -1,5 +1,6 @@
 FROM python:3.6-slim
 
+
 WORKDIR /app
 COPY requirements.txt .
 COPY device_bind.sh .
